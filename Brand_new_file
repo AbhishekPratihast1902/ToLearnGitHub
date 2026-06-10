@@ -1,0 +1,6 @@
+this file is created on github for leaning about pull command
+commands include to learn through this file:
+1.git fetch - fetch the logs about what changes made on the online repository on github what you lag behind and have to pull those changes locally (only logs not even visible yet)
+2.git checkout origin/main - this temporarily changes the whole local repo to the repo present online on github , and used to view what changed that you don't implemented on local level means(not pulled)
+3.git switch main - this bring you back to your local repo mode on vscode which is actual working directory you were working on and not have new changes locally yet,its just a undo of git chechout command
+4.git pull - this finally update your local working directory with all the changes form the online repo on github (logs + actual files)
